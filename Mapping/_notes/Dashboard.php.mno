@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Company" value="name:Company_Id;datatype:int,name:Company_Name;datatype:string,name:Company_Phone;datatype:string,name:Company_Add;datatype:string,name:Company_Posscode;datatype:int,name:Company_State;datatype:string,name:Company_Latitude;datatype:int,name:Company_Longtitude;datatype:int" />
+	<infoitem key="UD_Student" value="name:Student_Id;datatype:int,name:Student_Name;datatype:string,name:Student_Matric;datatype:string,name:Student_Course;datatype:string,name:Student_Year;datatype:string,name:semester_session;datatype:string,name:Student_Phone;datatype:string,name:Student_Email;datatype:string" />
+	<infoitem key="UD_Supervisor" value="name:Supervisor_Id;datatype:int,name:Supervisor_Name;datatype:string,name:Supervisor_Department;datatype:string,name:Supervisor_Phone;datatype:string,name:Supervisor_St;datatype:string,name:Supervisor_StaffID;datatype:string,name:Supervisor_Password;datatype:string,name:Supervisor_Comfirm;datatype:string,name:Supervisor_SQ;datatype:string,name:Supervisor_ans;datatype:string,name:Supervisor_Status;datatype:string" />
+</info>

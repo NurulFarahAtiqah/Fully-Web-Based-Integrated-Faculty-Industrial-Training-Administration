@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Company" value="name:Company_Id;datatype:int,name:Company_Name;datatype:string,name:Company_Phone;datatype:string,name:Company_Add;datatype:string,name:Company_Posscode;datatype:int,name:Company_State;datatype:string,name:Company_Latitude;datatype:int,name:Company_Longtitude;datatype:int" />
+</info>

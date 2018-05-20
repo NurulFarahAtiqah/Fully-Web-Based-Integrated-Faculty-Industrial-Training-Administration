@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Supervisor" value="name:Supervisor_Id;datatype:int,name:Supervisor_Name;datatype:string,name:Supervisor_Department;datatype:string,name:Supervisor_Phone;datatype:string,name:Supervisor_St;datatype:string,name:Supervisor_StaffID;datatype:string,name:Supervisor_Password;datatype:string,name:Supervisor_Comfirm;datatype:string,name:Supervisor_SQ;datatype:string,name:Supervisor_ans;datatype:string,name:Supervisor_Status;datatype:string" />
+</info>

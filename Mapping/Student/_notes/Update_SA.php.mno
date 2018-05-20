@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SA" value="name:Company_Id;datatype:int,name:Student_Id;datatype:int,name:Intern_Status;datatype:string,name:Stud_AttachmentID;datatype:int,name:Start_Date;datatype:date,name:Finish_Date;datatype:date" />
+</info>
